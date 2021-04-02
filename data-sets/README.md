@@ -2,8 +2,9 @@
 
 This directory holds three example data sets. The tutorial exercises may be
 completed using either data set.
-0. loc-data folder is a data set consisting of the Library of Congress Subject Headings downloaded from https://id.loc.gov/download/. ~2 million records from UPenn Libraries with title-subject linked data are included as a test training set of the LCSH vocabulary.
-1. [yso-nlf](yso-nĺf) is a data set consisting of the trilingual [General
+
+1. [loc-data] folder is a data set consisting of the Library of Congress Subject Headings downloaded from https://id.loc.gov/download/. ~2 million records from UPenn Libraries with title-subject linked data are included as a test training set of the LCSH vocabulary.
+2. [yso-nlf](yso-nĺf) is a data set consisting of the trilingual [General
 Finnish Ontology
 YSO](https://www.kansalliskirjasto.fi/en/services/expert-services-of-data-description/general-finnish-ontology-yso),
 a training data set constructed from metadata records from the
@@ -11,7 +12,7 @@ a training data set constructed from metadata records from the
 language Master's and doctoral theses from the [University of
 Jyväskylä](https://www.jyu.fi/en).
 
-2. [stw-zbw](stw-zbw) contains the [STW thesaurus for economics](http://zbw.eu/stw/version/latest/about),
+3. [stw-zbw](stw-zbw) contains the [STW thesaurus for economics](http://zbw.eu/stw/version/latest/about),
 metadata used in the [ZBW](https://zbw.eu) retrieval system [EconBiz](https://www.econbiz.de) and full texts of working papers in economics uploaded to [EconStor](https://www.econstor.eu).
 
 In addition, [hogwarts](hogwarts) is a toy data set from the world of Harry

@@ -3,7 +3,7 @@
 This directory holds three example data sets. The tutorial exercises may be
 completed using either data set.
 
-1. [loc-data] folder is a data set consisting of the Library of Congress Subject Headings downloaded from https://id.loc.gov/download/. ~2 million records from UPenn Libraries with title-subject linked data are included as a test training set of the LCSH vocabulary.
+1. [loc-data](https://github.com/jimfhahn/Annif-tutorial/tree/master/data-sets/loc-data) folder is a data set consisting of the Library of Congress Subject Headings downloaded from https://id.loc.gov/download/. ~2 million records from UPenn Libraries with title-subject linked data are included as a test training set of the LCSH vocabulary.
 2. [yso-nlf](yso-nĺf) is a data set consisting of the trilingual [General
 Finnish Ontology
 YSO](https://www.kansalliskirjasto.fi/en/services/expert-services-of-data-description/general-finnish-ontology-yso),
